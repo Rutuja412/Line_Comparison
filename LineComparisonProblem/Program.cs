@@ -10,8 +10,10 @@ namespace LineComparisonProblem
             //LenghtOfLine lenghtOfLine = new LenghtOfLine();
             //lenghtOfLine.Calculate();
 
-            CheckEquality checkEquality = new CheckEquality();
-            checkEquality.Equality();
+            //CheckEquality checkEquality = new CheckEquality();
+            //checkEquality.Equality();
+            CompareTwoLines compareTwoLines = new CompareTwoLines();
+            compareTwoLines.Compare();
         }
     }
 }
